@@ -1,1 +1,1 @@
-# Shopery-Web
+# Shopery-Server
